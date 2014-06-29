@@ -1,0 +1,4 @@
+﻿<#
+    this.ClassName = "TestClass";
+#>
+<#@ include file="Template1.tt" #>

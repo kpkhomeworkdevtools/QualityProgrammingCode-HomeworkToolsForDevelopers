@@ -1,0 +1,5 @@
+C:\Users\Thoth\Documents\GitHub\QualityProgrammingCode-HomeworkToolsForDevelopers\Homework_12_Due_29.06.2014\Task 02\T4Template\TemplateApplication\bin\Debug\TemplateApplication.exe.config
+C:\Users\Thoth\Documents\GitHub\QualityProgrammingCode-HomeworkToolsForDevelopers\Homework_12_Due_29.06.2014\Task 02\T4Template\TemplateApplication\bin\Debug\TemplateApplication.exe
+C:\Users\Thoth\Documents\GitHub\QualityProgrammingCode-HomeworkToolsForDevelopers\Homework_12_Due_29.06.2014\Task 02\T4Template\TemplateApplication\bin\Debug\TemplateApplication.pdb
+C:\Users\Thoth\Documents\GitHub\QualityProgrammingCode-HomeworkToolsForDevelopers\Homework_12_Due_29.06.2014\Task 02\T4Template\TemplateApplication\obj\Debug\TemplateApplication.exe
+C:\Users\Thoth\Documents\GitHub\QualityProgrammingCode-HomeworkToolsForDevelopers\Homework_12_Due_29.06.2014\Task 02\T4Template\TemplateApplication\obj\Debug\TemplateApplication.pdb
